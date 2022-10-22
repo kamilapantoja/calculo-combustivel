@@ -1,1 +1,1 @@
-# calculo-combustivel
+# Exercises Javascript
